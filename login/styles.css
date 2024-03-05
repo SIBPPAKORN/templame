@@ -37,6 +37,9 @@ p {
 p.subtitle {
   padding-top: 1rem;
   color: black;
+  font-size: xx-large;
+  font: 500em sans-serif;
+  
 }
 
 a {
